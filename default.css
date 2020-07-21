@@ -369,7 +369,7 @@ ul.style1 li {
 ul.style1 a {
 	text-shadow: 1px 1px 0px #FFFFFF;
 	text-decoration: none;
-	color: #83868A;
+	color: black;
 }
 
 ul.style1 a:hover {
@@ -469,7 +469,7 @@ ul.style1 .first {
 }
 
 .propos{
-	font-size: 14px;
+	font-size: 20px;
 	text-align: justify;
 }
 
